@@ -9,7 +9,7 @@ gms = tree[0]
 
 for g in gms:
 #     print(g.tag)
-    print("Home: {:<20} Away: {:<20} Score: {} - {}".format(g.attrib['hnn'].capitalize(),
+    print("Home: {:<20} Away: {:<20} Score: {:<2} - {:<2}".format(g.attrib['hnn'].capitalize(),
         g.attrib['vnn'].capitalize(), g.attrib['hs'], g.attrib['vs']), end="")
     if g.attrib['q'] == "F":
         print(" -- Final")
