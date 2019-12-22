@@ -1,0 +1,20 @@
+<ss>
+	<gms w="16" y="2019" t="R" gd="1" bph="105">
+		<g eid="2019122100" gsis="58128" d="Sat" t="1:00" q="F" h="TB" hnn="buccaneers" hs="20" v="HOU" vnn="texans" vs="23" rz="0" ga="" gt="REG"/>
+		<g eid="2019122101" gsis="58126" d="Sat" t="4:30" q="F" h="NE" hnn="patriots" hs="24" v="BUF" vnn="bills" vs="17" rz="0" ga="" gt="REG"/>
+		<g eid="2019122102" gsis="58127" d="Sat" t="8:15" q="F" h="SF" hnn="49ers" hs="34" v="LA" vnn="rams" vs="31" rz="0" ga="" gt="REG"/>
+		<g eid="2019122205" gsis="58129" d="Sun" t="1:00" q="F" h="ATL" hnn="falcons" hs="24" v="JAX" vnn="jaguars" vs="12" rz="0" ga="" gt="REG"/>
+		<g eid="2019122206" gsis="58130" d="Sun" t="1:00" q="4" k="02:00" h="CLE" hnn="browns" hs="15" v="BAL" vnn="ravens" vs="31" p="BAL" rz="0" ga="" gt="REG"/>
+		<g eid="2019122207" gsis="58131" d="Sun" t="1:00" q="F" h="IND" hnn="colts" hs="38" v="CAR" vnn="panthers" vs="6" rz="0" ga="" gt="REG"/>
+		<g eid="2019122208" gsis="58132" d="Sun" t="1:00" q="4" k="04:17" h="MIA" hnn="dolphins" hs="35" v="CIN" vnn="bengals" vs="19" p="MIA" rz="0" ga="" gt="REG"/>
+		<g eid="2019122209" gsis="58133" d="Sun" t="1:00" q="F" h="NYJ" hnn="jets" hs="16" v="PIT" vnn="steelers" vs="10" rz="0" ga="" gt="REG"/>
+		<g eid="2019122210" gsis="58134" d="Sun" t="1:00" q="4" k="04:06" h="TEN" hnn="titans" hs="28" v="NO" vnn="saints" vs="31" p="NO" rz="1" ga="" gt="REG"/>
+		<g eid="2019122211" gsis="58135" d="Sun" t="1:00" q="4" k="00:59" h="WAS" hnn="redskins" hs="28" v="NYG" vnn="giants" vs="35" p="WAS" rz="1" ga="" gt="REG"/>
+		<g eid="2019122200" gsis="58124" d="Sun" t="4:05" q="P" h="DEN" hnn="broncos" hs="0" v="DET" vnn="lions" vs="0" rz="0" ga="" gt="REG"/>
+		<g eid="2019122201" gsis="58125" d="Sun" t="4:05" q="P" h="LAC" hnn="chargers" hs="0" v="OAK" vnn="raiders" vs="0" rz="0" ga="" gt="REG"/>
+		<g eid="2019122212" gsis="58136" d="Sun" t="4:25" q="P" h="PHI" hnn="eagles" hs="0" v="DAL" vnn="cowboys" vs="0" rz="0" ga="" gt="REG"/>
+		<g eid="2019122213" gsis="58137" d="Sun" t="4:25" q="P" h="SEA" hnn="seahawks" hs="0" v="ARI" vnn="cardinals" vs="0" rz="0" ga="" gt="REG"/>
+		<g eid="2019122214" gsis="58138" d="Sun" t="8:20" q="P" h="CHI" hnn="bears" hs="0" v="KC" vnn="chiefs" vs="0" rz="0" ga="" gt="REG"/>
+		<g eid="2019122300" gsis="58139" d="Mon" t="8:15" q="P" h="MIN" hnn="vikings" hs="0" v="GB" vnn="packers" vs="0" rz="0" ga="" gt="REG"/>
+	</gms>
+</ss>
